@@ -1,6 +1,6 @@
 # Web/Mr. Robot
 
-![Chall](https://github.com/N00BARMY/DarkCTF-Pre/blob/master/chall.JPG)
+![Chall](https://github.com/N00BARMY/DarkCTF-Pre/blob/master/Chall.JPG)
 
 - Challenge Url : [Mr.Robot](http://mr-robot.darkarmy.xyz/)
 
@@ -16,6 +16,7 @@ Actually there's no flag in the current location **as you the name of the challe
 ![Screenshot 1.](https://github.com/N00BARMY/DarkCTF-Pre/blob/master/robot-file.JPG)
 
 - Simply Visit this location you'll have ypu flag!! :)
+
 
 ![Screenshot 1.](https://github.com/N00BARMY/DarkCTF-Pre/blob/master/flag.JPG)
 
