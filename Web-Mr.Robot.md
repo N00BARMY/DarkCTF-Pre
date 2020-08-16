@@ -1,6 +1,6 @@
 # Web/Mr. Robot
 
-![Chall](https://github.com/N00BARMY/DarkCTF-Pre/blob/master/chall.jpg)
+![Chall](https://github.com/N00BARMY/DarkCTF-Pre/blob/master/chall.JPG)
 
 - Challenge Url : [Mr.Robot](http://mr-robot.darkarmy.xyz/)
 
@@ -13,10 +13,10 @@ Actually there's no flag in the current location **as you the name of the challe
 
 - You'll get a location : Disallow : /l33t_hax0r.html
 
-![Screenshot 1.](https://github.com/N00BARMY/DarkCTF-Pre/blob/master/robot-file.jpg)
+![Screenshot 1.](https://github.com/N00BARMY/DarkCTF-Pre/blob/master/robot-file.JPG)
 
 - Simply Visit this location you'll have ypu flag!! :)
 
-![Screenshot 1.](https://github.com/N00BARMY/DarkCTF-Pre/blob/master/flag.jpg)
+![Screenshot 1.](https://github.com/N00BARMY/DarkCTF-Pre/blob/master/flag.JPG)
 
 Thanks To ```@N00B_4rMY```
