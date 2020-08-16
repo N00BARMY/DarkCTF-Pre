@@ -7,7 +7,7 @@
 ## Step 1. 
 - Visit this challenge url in the browser 
 
-Actually there's no flag in the current location **as you the name of the challenge itself an clue**.
+Actually there's no flag in the current location **as you know the name of the challenge itself an clue**.
 
 - Change the url location ```http://mr-robot.darkarmy.xyz/``` to ```http://mr-robot.darkarmy.xyz/robots.txt```
 
